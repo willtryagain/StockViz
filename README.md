@@ -8,3 +8,4 @@ It plots the stock data from stock exchanges - NYA, IXIC etc. It displays info l
 
 
 Here is the [dataset](https://www.kaggle.com/mattiuzc/stock-exchange-data/code?datasetId=1387282&sortBy=voteCount).
+The logo is taken from [here](https://www.vectorstock.com/royalty-free-vector/computer-stock-market-business-logo-icon-design-vector-22926706)
